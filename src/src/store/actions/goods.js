@@ -1,0 +1,3 @@
+export const GOODS_REQUEST = 'GOODS_REQUEST'
+export const GOODS_SUCCESS = 'GOODS_SUCCESS'
+export const GOODS_ERROR = 'GOODS_ERROR'
